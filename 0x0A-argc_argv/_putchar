@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "main .h"
+=======
+#include "main.h"
+>>>>>>> 770aaba559eb376777d568a36648d51de03d8608
 #include <unistd.h>
 
 /**

@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 770aaba559eb376777d568a36648d51de03d8608
 #include <stdio.h>
 /**
  * main - prints its name, followed by a new line.
