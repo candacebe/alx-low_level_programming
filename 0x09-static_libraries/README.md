@@ -1,2 +1,2 @@
 0x09. C - Static libraries
-my raedme on C - Static libraries
+My readme on C - Static libraries
